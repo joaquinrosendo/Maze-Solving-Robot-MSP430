@@ -1,2 +1,2 @@
 # Maze-Solving-Robot-MSP430
-Code for a small robot with IR sensors programmed on the TI MSP430 Launchpad microcontroller
+Code for a small physical robot that was able to succesfully get itself out of a phyisical maze. Programmed in C on a microcontroller 
